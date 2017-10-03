@@ -1,0 +1,8 @@
+C:\Users\kisho\OneDrive\Documents\C#\GradesProject\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\kisho\OneDrive\Documents\C#\GradesProject\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\kisho\OneDrive\Documents\C#\GradesProject\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\kisho\OneDrive\Documents\C#\GradesProject\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\kisho\OneDrive\Documents\C#\GradesProject\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\kisho\OneDrive\Documents\C#\GradesProject\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\kisho\OneDrive\Documents\C#\GradesProject\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\kisho\OneDrive\Documents\C#\GradesProject\Grades\Grades\bin\Debug\Grades.txt
